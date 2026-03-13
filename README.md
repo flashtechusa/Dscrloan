@@ -1,2 +1,0 @@
-# Dscrloan
-Dscr loan analysis
